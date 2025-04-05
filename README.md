@@ -72,7 +72,9 @@ as well as a windows installation version by the end of development.
 ## Project Roadmap
 <a id="Project-Roadmap"></a>
 
-(TBD)
+Below this is the link that will be used to track development throughout the project and any impending updates required:
+
+https://github.com/users/Jamiephillips915/projects/6
 
 ---
 
