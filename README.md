@@ -76,6 +76,12 @@ Below this is the link that will be used to track development throughout the pro
 
 https://github.com/users/Jamiephillips915/projects/6
 
+In addition to this, There is an additional document that contains in
+detail documentation of the project as it's being created, which
+is also linked below:
+
+https://github.com/Jamiephillips915/EdVenture/blob/main/Documentation.md
+
 ---
 
 
