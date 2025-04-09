@@ -100,7 +100,7 @@ https://github.com/Jamiephillips915/EdVenture/blob/main/Documentation.md
 <a id="Acknowledgements"></a>
 
 Thank you to these people for contributing as members of the clientele:
-Lydia Vogiatis, Mohammed Alawami, Noah West , Henry Holland and 
+Lydia Vogiatzis, Mohammed Alawami, Noah West , Henry Holland and 
 Bin Amir Hamnah Binti Abdul Halek.
 
 ---
