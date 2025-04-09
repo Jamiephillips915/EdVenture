@@ -106,7 +106,7 @@ Of this design, I have created 2 alternative designs and presented these to
 a sample of my clientele, of which I will display their feedback to each
 corresponding design below:
 
-![logoDesign1.png](../Images/logoDesign1.png)
+![logoDesign1.png](https://github.com/Jamiephillips915/EdVenture/blob/main/Images/logoDesign1.png)
 <div style="text-align: center;">(Design 1)</div>
 
 Upon presenting the first Design to my clientele
@@ -121,14 +121,14 @@ appreciate.
 I attempt to remedy this with my next two designs, as I seek a more modern
 sleek design that may appeal greater to university aged students.
 
-![logo.png](../Images/logo.png)
+![logo.png](https://github.com/Jamiephillips915/EdVenture/blob/main/Images/logo.png)
 <div style="text-align: center;">(Design 2)</div>
 
 This second design received highly positive feedback from my sample
 clientele, citing that they like the darkened gradient theme over the 
 primary bright colours.
 
-![logoDesign2.png](../Images/logoDesign2.png)
+![logoDesign2.png](https://github.com/Jamiephillips915/EdVenture/blob/main/Images/logoDesign2.png)
 <div style="text-align: center;">(Design 3)</div>
 
 This third design was considered an improvement from the first design
