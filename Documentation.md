@@ -8,7 +8,8 @@
     - [Target Audience](#target-audience)
     - [Development Methodologies](#development-methodologies)
     - [Success Criteria](#success-criteria)
-    - [Decomposition of the Problem](#success-criteria)
+    - [Decomposition of the Problem](#decomposition-of-the-problem)
+    - [Design of the Logo](#design-of-the-logo)
 
 ---
 
@@ -79,6 +80,7 @@ idea of the initial v1.0 of the project.
 |   8    | Email Embedding                  | This will filter emails to ones by the university or UCAS and present the user.                                                                                    | This makes the application process to university easier as any important emails that are sent can be seen by the student.                                                                                                   |
 |   9    | Task Menu                        | This will allow the university to set "tasks" for matriculating students to do, as well as a deadline which will add to the calender                               | This would centralize each of the tasks that the student has to do before matriculation eg. Applying for accommodation or confirming with your school                                                                       |
 |   10   | Societies Page                   | This gives an opportunity for matriculating students to research more about student life at their university, with a filter button for each uni they've applied to | This will encourage students to get more involved and feel more at home at their university                                                                                                                                 |
+|   11   | Real time notifications          | This would send notifications to the user telling them whenever a new email/message has come in                                                                    | This will ensure that students are kept as up to date as possible                                                                                                                                                           |
 
 ---
 
@@ -93,6 +95,50 @@ allow me to easily test and isolate each feature of the solution.
 
 ---
 
+## Design of the Logo
+
+Firstly, in the graphical design of EdVenture, I have decided to create
+the logo for EdVenture, as it is the first impression of the application
+to any prospective University or Student user.
+
+I have created a logo which is simple and has an education oriented design.
+Of this design, I have created 2 alternative designs and presented these to
+a sample of my clientele, of which I will display their feedback to each
+corresponding design below:
+
+![logoDesign1.png](../Images/logoDesign1.png)
+<div style="text-align: center;">(Design 1)</div>
+
+Upon presenting the first Design to my clientele
+members: Lydia Vogiatis, Mohammed Alawami, Noah West
+, Henry Holland and Bin Amir Hamnah Binti Abdul Halek, they have
+stated that while they like the concise and
+simple design of the Letters, they disprove of
+the colour scheme, citing that it gives a younger
+aesthetic than what university students would
+appreciate.
+
+I attempt to remedy this with my next two designs, as I seek a more modern
+sleek design that may appeal greater to university aged students.
+
+![logo.png](../Images/logo.png)
+<div style="text-align: center;">(Design 2)</div>
+
+This second design received highly positive feedback from my sample
+clientele, citing that they like the darkened gradient theme over the 
+primary bright colours.
+
+![logoDesign2.png](../Images/logoDesign2.png)
+<div style="text-align: center;">(Design 3)</div>
+
+This third design was considered an improvement from the first design
+by my sample clientele, but they were worried that the 3rd design would
+conflict with accessibility settings such as a dark mode.
+
+Overall, in accordance with my client feedback, I will go with the 
+second design as my main logo for EdVenture.
+
+---
 
 
 
